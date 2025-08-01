@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently working on Software developemt Project ,Full stack dev , And AI , ML project
+Software developer ,Full stack dev , And AI , ML project
 
 
 ## 🌐 Socials:
